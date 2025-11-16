@@ -1,1 +1,1 @@
-# pagination
+# pagination This project demonstrates simple pagination in PHP by displaying a limited number of database records per page using SQL LIMIT and OFFSET. It includes page navigation links (Previous, Next, and page numbers) to move through the complete dataset efficiently.
